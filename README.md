@@ -29,7 +29,7 @@ Este projeto é um sistema simples de gerenciamento de anotações pessoais com 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/nathanjsilva/gerenciamento-notas.git
 cd seu-repo
 ```
 
